@@ -2,7 +2,7 @@ import numpy as np
 import cv2 as cv
 import component.chessboard_calibration as cc
 
-video_file = 'chessboard.mp4'
+video_file = 'example/chessboard.mp4'
 board_pattern = (10, 7)
 board_cellsize = 0.025
 
