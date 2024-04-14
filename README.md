@@ -19,13 +19,13 @@
 ## 사용 방법
 
 1. 비디오 파일을 `example` 폴더에 추가합니다.
-2. `pose_estimator.py` 스크립트 내에서 video_file 변수를 원하는 비디오 파일의 디렉토리 경로로 설정합니다.
+2. `pose_estimator.py` 스크립트 내에서 `video_file` 변수를 사용할 비디오 파일의 디렉토리 경로로 설정합니다.
 3. 코드를 실행하여 카메라 캘리브레이션을 수행합니다.
 4. 추정된 카메라 포즈를 기반으로 AR 물체가 시각화된 영상을 확인합니다.
 
 ## 예시 실행 결과
 
-![AR model result](example/AR_model.JPG)
+![AR model result](example/AR_result.JPG)
 
 ## 주의 사항
 
